@@ -1,0 +1,26 @@
+#mascot{
+	height: 400px;
+	width: 400px;
+}
+.container1{
+	background-color: #DD88CF;
+	width: 500px;
+	padding: 10px;
+	border: 5px solid #4B164C;
+	margin: 25px;
+}
+body{
+	background-color: #F8E7F6;
+}
+label{
+	font-display: Bradley Hand;
+	font-family: cursive;
+}
+#logo{
+	height: 30px;
+	width: 30px;
+}
+input{
+	font-display: Apple Chancery;
+	font-family: cursive;
+}
